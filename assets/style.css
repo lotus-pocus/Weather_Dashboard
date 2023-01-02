@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+
+
+#titleBanner {
+    background: linear-gradient(to right, rgb(124, 124, 218) , navy);
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
