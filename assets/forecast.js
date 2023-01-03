@@ -1,0 +1,42 @@
+var weatherData = [
+    {
+        city: 'London',
+        date: '02/01/2023',
+        image: 'sun',
+        temp: '18.8',
+        wind: '2.76',
+        humidity: '44',
+    },
+    {
+        city: 'Majorca',
+        date: '03/01/2023',
+        image: 'rain',
+        temp: '20.8',
+        wind: '5',
+        humidity: '10',
+    },
+    {
+        city: 'London',
+        date: '04/01/2023',
+        image: 'sun',
+        temp: '12',
+        wind: '4',
+        humidity: '28',
+    },
+    {
+        city: 'New-York',
+        date: '05/01/2023',
+        image: 'clouds',
+        temp: '20',
+        wind: '3.5',
+        humidity: '40',
+    },
+    {
+        city: 'Majorca',
+        date: '06/01/2023',
+        image: 'wind',
+        temp: '19',
+        wind: '2.9',
+        humidity: '42',
+    },
+];
